@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <!-- Colores Activity Main-->
+    <color name="color_acercade_activity">#009688</color>
+    <color name="texto_btn_activity">#FFFFFF</color>
+    <color name="color_form_activity">#00BCD4</color>
+    <color name="background_activity">#E8EAF6</color>
 </resources>

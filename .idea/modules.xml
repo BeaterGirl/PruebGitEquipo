@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PruebGitEquipo.iml" filepath="$PROJECT_DIR$/PruebGitEquipo.iml" />
-      <module fileurl="file://C:\Users\jfuentesj\AndroidStudioProjects\PruebGitEquipo\PruebaGitEquipo.iml" filepath="C:\Users\jfuentesj\AndroidStudioProjects\PruebGitEquipo\PruebaGitEquipo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PruebaGitEquipo.iml" filepath="$PROJECT_DIR$/PruebaGitEquipo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\jfuentesj\AndroidStudioProjects\PruebGitEquipo\app\app.iml" filepath="C:\Users\jfuentesj\AndroidStudioProjects\PruebGitEquipo\app\app.iml" />
     </modules>
   </component>
 </project>
