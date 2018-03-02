@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PruebaGitEquipo</string>
+    <string name="label_nombre">Nombre:</string>
+    <string name="label_apellido">Apellido:</string>
+    <string name="label_sexo">Sexo:</string>
+    <string name="label_btn_save">Save</string>
+    <string name="label_btn_clear">Clear</string>
 </resources>
